@@ -1,0 +1,5 @@
+c:\users\melih\documents\visual studio 2015\Projects\WebApp.Business\WebApp.DataAccess\bin\Debug\WebApp.DataAccess.dll
+c:\users\melih\documents\visual studio 2015\Projects\WebApp.Business\WebApp.DataAccess\bin\Debug\WebApp.DataAccess.pdb
+c:\users\melih\documents\visual studio 2015\Projects\WebApp.Business\WebApp.DataAccess\obj\Debug\WebApp.DataAccess.dll
+c:\users\melih\documents\visual studio 2015\Projects\WebApp.Business\WebApp.DataAccess\obj\Debug\WebApp.DataAccess.pdb
+C:\Users\Melih\Documents\Visual Studio 2015\Projects\WebApp.Business\WebApp.DataAccess\obj\Debug\WebApp.DataAccess.csprojResolveAssemblyReference.cache
